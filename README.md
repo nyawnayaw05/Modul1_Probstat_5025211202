@@ -264,7 +264,7 @@ Nilai Varian (σ²) dari hasil generate random nilai Distribusi Normal.
 ```R
 varians <- std.deviasi ** 2
 ```
-Hasil varian didapat dari standar deviasi dikalikan dengan 2.
+Hasil varian didapat dari standar deviasi dipangkat 2, sehingga hasilnya adalah 64.
 
 
 # SEKIAN PRAKTIKUM SAYA, TERIMA KASIH.
